@@ -1,0 +1,2 @@
+include ':app', ':ocrlibrary'
+rootProject.name='Text From Image'
